@@ -1,2 +1,2 @@
 # GameDeveloperCentralWebsite
-A website developed to be a central hub for all game developers.
+A website developed to be a central hub for all game developers (niche website).
