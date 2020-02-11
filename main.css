@@ -1,4 +1,4 @@
-﻿		@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
+		@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
 		@import "variables";
 		@import "reset";
 		*{
@@ -115,7 +115,7 @@
 			display: inline-block;
 			outline: none;
 			border: none;
-			border-bottom: 2px solid #6a7eac;
+			border-bottom: 2px solid #e006e8;
 			background: transparent;
 			color: #ffffff;
 		}
@@ -246,7 +246,7 @@
 			position: relative;
 			top: -20px;
 			text-decoration: none;
-			color: #c43b3b;
+			color: #e006e8;
 		}
 		.circle-icon{
 			position: relative;
@@ -296,7 +296,7 @@
 			display: inline-block;
 		}
 		.timeline-tab{
-			color: #c43b3b;
+			color: #e006e8;
 		}
 		.about-tab, .friends-tab, .photos-tab{
 			color: #724545;
@@ -307,7 +307,7 @@
 			color: #724545;
 		}
 		.hl{
-			border-bottom: 6px solid #c43b3b;
+			border-bottom: 6px solid #e006e8;
 			width: 150px;
 			position: relative;
 			left: 0px;
@@ -342,7 +342,7 @@
 			position: relative;
 			left: 120px;
 			text-decoration: none;
-			color: #c43b3b;
+			color: #e006e8;
 		}
 		.status{
 			position: relative;
@@ -353,13 +353,13 @@
 			position: relative;
 			left: 120px;
 			text-decoration: none;
-			color: #c43b3b;
+			color: #e006e8;
 		}
 		.status-datetime{
 			font-size: 0.8rem;
 			position: relative;
-			left: -135px;
-			top: 20px;
+			left: -173px;
+			top: 18px;
 			color: #a9a9a9;
 		}
 		.instagram-img{
@@ -426,7 +426,7 @@
 			left: 20px;
 		}
 		.comment-person{
-			color: #c43b3b;
+			color: #e006e8;
 			font-weight: 600;
 			position: relative;
 			left: 130px;
@@ -602,5 +602,5 @@
 			top: 1800px;
 			left: 50%;
 			font-size: 2.3rem;
-			color: #c43b3b;
+			color: #e006e8;
 		}
