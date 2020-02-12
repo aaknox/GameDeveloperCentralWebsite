@@ -331,7 +331,7 @@
 		}
 		.about-tab i{
 			position: relative;
-			left: 8px;
+			right: 3px;
 		}
 		.about-tab, .friends-tab, .photos-tab{
 			color: #724545;
