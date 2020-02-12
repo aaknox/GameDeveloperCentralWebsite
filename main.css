@@ -297,9 +297,8 @@
 		    width: 75%;
 		    box-shadow: 5px 5px 1px #aaaaaa;
 		    overflow: hidden;
-		    position: relative;
-		    top: -1500px;
-		    left: 15px;
+		    padding: 5px 10px;
+		    display: inline-block;
 		}
 		.content-tab{
 			background-color: #ffffff;
