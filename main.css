@@ -298,7 +298,7 @@
 		    box-shadow: 5px 5px 1px #aaaaaa;
 		    overflow: hidden;
 		    position: relative;
-		    top: -975px;
+		    bottom: 50px;
 		    left: 15px;
 		}
 		.content-tab{
