@@ -103,6 +103,8 @@
 			float: right;
 			padding: 0px 30px;
 			display: inline-block;
+			position: relative;
+			bottom: 100px;
 		}
 		.search-icon{
 			float: right;
