@@ -299,6 +299,9 @@
 		    overflow: hidden;
 		    padding: 5px 10px;
 		    display: inline-block;
+		    position: relative;
+		    top: -1900px;
+		    
 		}
 		.content-tab{
 			background-color: #ffffff;
