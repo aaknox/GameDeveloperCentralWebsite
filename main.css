@@ -294,7 +294,7 @@
 		#content-section{
 		    background-color: #ffffff;
 		    height: 100px;
-		    width: 72%;
+		    width: 75%;
 		    box-shadow: 5px 5px 1px #aaaaaa;
 		    overflow: hidden;
 		    position: relative;
@@ -331,8 +331,9 @@
 			color: #724545;
 		}
 		.dropdown-icon i{
-			position: relative;
-			left: 280px;
+			/*position: relative;
+			left: 280px;*/
+			float: right;
 			color: #724545;
 		}
 		.hl{
