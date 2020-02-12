@@ -102,6 +102,7 @@
 		#search-area{
 			float: right;
 			padding: 0px 30px;
+			display: inline-block;
 		}
 		.search-icon{
 			margin-left: -20px;
