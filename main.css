@@ -321,10 +321,10 @@
 		}
 		.content-tab i{
 			background-color: #ffffff;
+			display: inline-block;
 			position: relative;
 			top: -30px;
-			left: 65px;
-			display: inline-block;
+			left: 60px;
 		}
 		.timeline-tab{
 			color: #e006e8;
