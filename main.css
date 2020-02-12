@@ -93,10 +93,11 @@
 			top: -65px;
 		}
 		.caret-down-icon{
-			position: relative;
-			margin-left: 455px;
-			top: -112px;
+			margin-left: 20px;
 			color: #ffffff;
+			position: relative;
+			display: inline-block;
+			top: -27px;
 		}
 		#search-area{
 			float: right;
