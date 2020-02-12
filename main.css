@@ -58,6 +58,11 @@
 			position: relative;
 			top: -5px;
 		}
+		.vm{
+			position: relative;
+			margin-left: 415px;
+			top: -5px;
+		}
 		.friend-icon{
 			margin-left: 300px;
 			color: #ffffff;
@@ -79,11 +84,7 @@
 			position: inline-block;
 			top: -50px;
 		}
-		.vm{
-			position: relative;
-			margin-left: 415px;
-			top: -70px;
-		}
+		
 		.lock-icon{
 			position: relative;
 			margin-left: 430px;
