@@ -74,20 +74,16 @@
 			position: inline-block;
 			top: -28px;
 		}
-		.vm{
-			position: relative;
-			left: -10px;
-		}
 		.lock-icon{
 			position: relative;
 			margin-left: 430px;
-			top: -52px;
+			bottom: 22px;
 			color: #ffffff;
 		}
 		.caret-down-icon{
 			position: relative;
 			margin-left: 455px;
-			top: -82px;
+			bottom: 22px;
 			color: #ffffff;
 		}
 		#search-area{
