@@ -4,6 +4,19 @@
 		*{
 			box-sizing: border-box;
 		}
+		.container{
+		  width: 100%;
+		  margin: 0 auto;
+		  margin-bottom: 30px;
+		}
+
+		.container:after{
+		  .row:after{
+		    content: "";
+		    display: table;
+		    clear: both;
+		    margin-bottom: 30px;
+		  }
 		body
 		{
 			background: #e5cdcd;
@@ -23,6 +36,64 @@
 		  box-shadow: 5px 5px 1px #aaaaaa;
 		  overflow: hidden;
 		}
+		/*CODE FOR RESPONSIVE*/
+		/*for small phones*/
+		@media only screen and (min-width: 0px){
+		     .container{
+		      width: 95%;
+		      max-width: 12;
+		      margin-bottom: 30px;
+		    }
+		    @for $i from 1 through 12{
+		      .col-sm-#{$i}{
+			width: 100%/ 12 * $i;
+			margin-bottom: 30px;
+		      }
+		    }
+		}
+		/*for larger phones and tablets*/
+		@media only screen and (min-width: 768px){
+		      .container{
+		      width: 95%;
+		      max-width: 12;
+		      margin-bottom: 30px;
+		    }
+		    @for $i from 1 through 12{
+		      .col-md-#{$i}{
+			width: 100%/ 12 * $i;
+			margin-bottom: 30px;
+		      }
+		    }
+		}
+		/*for laptops*/
+		@media only screen and (min-width: 1008px){
+		      .container{
+		      width: 95%;
+		      max-width: 12;
+		      margin-bottom: 30px;
+		    }
+		    @for $i from 1 through 12{
+		      .col-lg-#{$i}{
+			width: 100%/ 12 * $i;
+			margin-bottom: 30px;
+		      }
+		    }
+		}
+		/*for desktops*/
+		@media only screen and (min-width: 1300px){
+		      .container{
+		      width: 95%;
+		      max-width: 12;
+		      margin-bottom: 30px;
+		    }
+		    @for $i from 1 through 12{
+		      .col-xl-#{$i}{
+			width: 100%/ 12 * $i;
+			margin-bottom: 30px;
+		      }
+		    }
+		}
+		/*END OF RESPONSIVE CODE*/
 		#header{
 			margin-left: 0px;
 			background: #9d17a2;
