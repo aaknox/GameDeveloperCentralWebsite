@@ -77,13 +77,13 @@
 		.lock-icon{
 			position: relative;
 			margin-left: 430px;
-			bottom: 82px;
+			bottom: 62px;
 			color: #ffffff;
 		}
 		.caret-down-icon{
 			position: relative;
-			margin-left: 40px;
-			bottom: 82px;
+			margin-left: 20px;
+			bottom: 62px;
 			color: #ffffff;
 		}
 		#search-area{
