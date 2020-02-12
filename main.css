@@ -61,7 +61,7 @@
 		.vm{
 			position: relative;
 			margin-left: 415px;
-			top: -5px;
+			bottom: 40px;
 		}
 		.friend-icon{
 			margin-left: 300px;
