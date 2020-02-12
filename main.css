@@ -101,8 +101,6 @@
 		}
 		#search-area{
 			float: right;
-			position: relative;
-			top: -165px;
 			padding: 0px 30px;
 		}
 		.search-icon{
