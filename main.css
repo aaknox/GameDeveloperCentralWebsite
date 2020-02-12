@@ -52,6 +52,7 @@
 		.vl, .vm{
 			border-left: 1px solid #a2a2a2;
 			height: 20px;
+			display: inline-block;
 		}
 		.friend-icon{
 			margin-left: 300px;
@@ -77,13 +78,13 @@
 		.lock-icon{
 			position: relative;
 			margin-left: 430px;
-			bottom: 62px;
+			bottom: 52px;
 			color: #ffffff;
 		}
 		.caret-down-icon{
 			position: relative;
-			margin-left: 20px;
-			bottom: 62px;
+			margin-left: 10px;
+			bottom: 52px;
 			color: #ffffff;
 		}
 		#search-area{
