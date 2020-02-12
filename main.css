@@ -293,12 +293,13 @@
 		}
 		#content-section{
 		    background-color: #ffffff;
-			height: 100px;
+		    height: 100px;
+		    width: 70%;
 		    box-shadow: 5px 5px 1px #aaaaaa;
 		    overflow: hidden;
-			position: relative;
-			top: -1010px;
-			left: 15px;
+		    position: relative;
+		    top: -1010px;
+		    left: 15px;
 		}
 		.content-tab{
 			background-color: #ffffff;
