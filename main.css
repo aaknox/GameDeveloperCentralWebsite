@@ -86,10 +86,11 @@
 		}
 		
 		.lock-icon{
-			position: relative;
-			margin-left: 430px;
-			top: -92px;
+			margin-left: 20px;
 			color: #ffffff;
+			position: relative;
+			display: inline-block;
+			top: -27px;
 		}
 		.caret-down-icon{
 			position: relative;
