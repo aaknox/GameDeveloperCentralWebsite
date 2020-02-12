@@ -78,11 +78,11 @@
 			top: -27px;
 		}
 		.notification-icon{
-			margin-left: 385px;
+			margin-left: 20px;
 			color: #ffffff;
 			position: relative;
-			position: inline-block;
-			top: -50px;
+			display: inline-block;
+			top: -27px;
 		}
 		
 		.lock-icon{
