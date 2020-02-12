@@ -105,10 +105,11 @@
 			display: inline-block;
 		}
 		.search-icon{
+			float: right;
 			margin-left: -20px;
 			position: relative;
-			top: 24px;
-			left: -10px;
+			top: 3px;
+			left: 20px;
 			color: #ffffff;
 		}
 		#search-bar{
