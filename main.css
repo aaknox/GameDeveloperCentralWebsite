@@ -272,7 +272,7 @@
 		    background-color: #ffffff;
 			height: 100px;
 		    box-shadow: 5px 5px 1px #aaaaaa;
-		    overflow: auto;
+		    overflow: hidden;
 			position: relative;
 			top: -975px;
 			left: 15px;
@@ -316,7 +316,7 @@
 			width: 150px;
 			position: relative;
 			left: 0px;
-			top: 74px;
+			top: 54px;
 		}
 		#user-post{
 			background-color: #ffffff;
