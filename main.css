@@ -338,7 +338,8 @@
 		}
 		.dropdown-icon i{
 			position: relative;
-			left: 18px;
+			left: 30px;
+			top: 20px;
 			color: #724545;
 		}
 		.hl{
