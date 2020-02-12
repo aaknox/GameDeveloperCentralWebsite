@@ -82,6 +82,8 @@
 		.vm{
 			margin-left: 415px;
 			display: inline-block;
+			position: relative;
+			top: -25px;
 		}
 		.lock-icon{
 			position: relative;
