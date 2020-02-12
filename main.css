@@ -49,12 +49,6 @@
 			color: #ffffff;
 			margin-left: 50px;
 		}
-		.vl, .vm{
-			border-left: 1px solid #a2a2a2;
-			height: 20px;
-			position: relative;
-			bottom: 37px;
-		}
 		.friend-icon{
 			margin-left: 300px;
 			color: #ffffff;
@@ -74,19 +68,21 @@
 			color: #ffffff;
 			position: relative;
 			position: inline-block;
-			top: -28px;
+			top: -27px;
 		}
 		.lock-icon{
-			position: relative;
-			margin-left: 430px;
-			bottom: 52px;
+			margin-left: 20px;
 			color: #ffffff;
+			position: relative;
+			display: inline-block;
+			top: -27px;
 		}
 		.caret-down-icon{
-			position: relative;
-			margin-left: 10px;
-			bottom: 52px;
+			margin-left: 20px;
 			color: #ffffff;
+			position: relative;
+			display: inline-block;
+			top: -27px;
 		}
 		#search-area{
 			float: right;
