@@ -355,8 +355,8 @@
 		#user-post{
 			background-color: #ffffff;
 			height: 1000px;
-		    box-shadow: 5px 5px 1px #aaaaaa;
-		    overflow: auto;
+			width: 75%;
+		    	box-shadow: 5px 5px 1px #aaaaaa;
 			position: relative;
 			top: -945px;
 			left: 15px;
