@@ -227,6 +227,7 @@
 			height: 60px;
 			padding: 1.5px;
 			margin-left: 0px;
+			vertical-align: middle;
 			position: relative;
 			top: -40px;
 		}
