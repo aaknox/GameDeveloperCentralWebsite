@@ -349,8 +349,8 @@
 			border-bottom: 6px solid #e006e8;
 			width: 150px;
 			position: relative;
-			left: 0px;
-			top: 52px;
+			right: 5px;
+			top: 92px;
 		}
 		#user-post{
 			background-color: #ffffff;
