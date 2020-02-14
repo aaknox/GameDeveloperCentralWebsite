@@ -225,9 +225,9 @@
 		img{
 			width: 80px;
 			height: 60px;
-			padding: 3px;
+			padding: 1.5px;
 			position: relative;
-			top: -50px;
+			top: -40px;
 		}
 		.card-icon{
 			background-color: #9d17a2;
