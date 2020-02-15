@@ -284,12 +284,14 @@
 			color: #724545;
 		}
 		.col-md-photos{
+			display: table;
 			position: relative;
 			left: -348px;
 			top: 360px;
 			bottom: 560px;
 		}
 		.col-md-friends{
+			display: table;
 			position: relative;
 			top: -150px;
 		}
@@ -360,10 +362,10 @@
 			height: 1000px;
 			width: 75%;
 		    	box-shadow: 5px 5px 1px #aaaaaa;
+			overflow: hidden;
 			position: relative;
 			top: -945px;
 			left: 15px;
-			overflow: hidden;
 		}
 		.user-face{
 			background:
