@@ -298,7 +298,7 @@
 		    height: 100px;
 		    width: 75%;
 		    box-shadow: 5px 5px 1px #aaaaaa;
-		    overflow: auto;
+		    overflow: hidden;
 		    padding: 5px 10px;
 		    display: inline-block;
 		    position: relative;
@@ -344,7 +344,7 @@
 			font-size: 1.5rem;
 			color: #724545;
 			position: relative;
-			right: 1050px;
+			right: 1550px;
 			top: 30px;
 		}
 		.hl{
