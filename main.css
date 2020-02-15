@@ -381,17 +381,17 @@
 			display: inline-block;
 		}
 		.username-link{
-			display: inline-block;
-			position: relative;
-			left: 120px;
 			text-decoration: none;
 			color: #e006e8;
-		}
-		.status{
-			display: inline-block;
 			position: relative;
 			left: 120px;
+			bottom: 20px;
+		}
+		.status{
 			color: #724545;
+			position: relative;
+			left: 120px;
+			bottom: 20px;
 		}
 		.insta-lk{
 			position: relative;
