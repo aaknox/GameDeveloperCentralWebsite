@@ -318,7 +318,8 @@
 			float: left;
 			padding-right: 47px;
 			position: relative;
-			top: 60px;
+			top: 61px;
+			right: 5px
 		}
 		.content-tab i{
 			background-color: #ffffff;
