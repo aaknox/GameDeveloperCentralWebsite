@@ -546,12 +546,11 @@
 			background-color: #ffffff;
 			width: 1000px;
 			height: 470px;
-		    box-shadow: 5px 5px 1px #aaaaaa;
-		    overflow: hidden;
+		    	box-shadow: 5px 5px 1px #aaaaaa;
+		    	overflow: hidden;
 			position: relative;
-			top: -925px;
+			top: -550px;
 			left: 360px;
-			box-shadow: 5px 5px 1px #aaaaaa;
 		}
 		.background-img-container{
 			background:
