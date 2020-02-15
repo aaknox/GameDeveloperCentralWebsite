@@ -400,8 +400,8 @@
 			color: #e006e8;
 			padding-top: 15px;
 			position: relative;
-			left: 120px;
-			bottom: 10px;
+			left: 130px;
+			bottom: 20px;
 		}
 		.status-datetime{
 			display: inline-block;
@@ -413,16 +413,11 @@
 		}
 		.dot-icon{
 			color: #a9a9a9;
-			position: relative;
-			left: 283px;
-			top: 9px;
+			display: inline-block;
 		}
 		.status-source{
 			font-size: 0.8rem;
-			color: #a9a9a9;
-			position: relative;
-			left: 293px;
-			top: -7px;
+			display: inline-block;
 		}
 		.instagram-img{
 			background:
