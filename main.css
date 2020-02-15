@@ -383,21 +383,25 @@
 		.username-link{
 			text-decoration: none;
 			color: #e006e8;
+			padding-top: 15px;
 			position: relative;
 			left: 120px;
 			bottom: 20px;
 		}
 		.status{
 			color: #724545;
+			padding-top: 15px;
 			position: relative;
 			left: 120px;
 			bottom: 20px;
 		}
 		.insta-lk{
-			position: relative;
-			left: 120px;
 			text-decoration: none;
 			color: #e006e8;
+			padding-top: 15px;
+			position: relative;
+			left: 120px;
+			bottom: 20px;
 		}
 		.status-datetime{
 			font-size: 0.8rem;
