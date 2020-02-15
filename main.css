@@ -549,7 +549,7 @@
 		    	box-shadow: 5px 5px 1px #aaaaaa;
 		    	overflow: hidden;
 			position: relative;
-			top: -250px;
+			bottom: 250px;
 			left: 360px;
 		}
 		.background-img-container{
