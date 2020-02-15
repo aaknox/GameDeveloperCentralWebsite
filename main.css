@@ -296,7 +296,7 @@
 		#content-section{
 		    background-color: #ffffff;
 		    height: 100px;
-		    width: 75%;
+		    width: 960px;
 		    box-shadow: 5px 5px 1px #aaaaaa;
 		    overflow: auto;
 		    padding: 5px 10px;
@@ -344,7 +344,7 @@
 			font-size: 1.5rem;
 			color: #724545;
 			position: relative;
-			left: 150px;
+			left: 350px;
 			top: 30px;
 		}
 		.hl{
