@@ -549,7 +549,7 @@
 		    	box-shadow: 5px 5px 1px #aaaaaa;
 		    	overflow: hidden;
 			position: relative;
-			bottom: 750px;
+			bottom: 1650px;
 			left: 360px;
 		}
 		.background-img-container{
@@ -606,7 +606,7 @@
 			color: #e5cdcd;
 			font-weight: 500;
 			position: relative;
-			right: 388px;
+			right: 368px;
 			top: 20px;
 		}
 		.like-btn{
@@ -623,7 +623,7 @@
 			height: 50px;
 			overflow: hidden;
 			position: relative;
-			bottom: 940px;
+			bottom: 1675px;
 			left: 360px;
 			box-shadow: 5px 5px 1px #aaaaaa;
 		}
