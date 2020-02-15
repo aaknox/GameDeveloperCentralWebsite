@@ -223,7 +223,6 @@
 		  padding: 0px 4px;
 		}
 		img{
-			display: table;
 			width: 80px;
 			height: 60px;
 			padding: 1.5px;
@@ -285,14 +284,12 @@
 			color: #724545;
 		}
 		.col-md-photos{
-			display: table;
 			position: relative;
 			left: -348px;
 			top: 360px;
 			bottom: 560px;
 		}
 		.col-md-friends{
-			display: table;
 			position: relative;
 			top: -150px;
 		}
@@ -384,12 +381,14 @@
 			display: inline-block;
 		}
 		.username-link{
+			display: inline-block;
 			position: relative;
 			left: 120px;
 			text-decoration: none;
 			color: #e006e8;
 		}
 		.status{
+			display: inline-block;
 			position: relative;
 			left: 120px;
 			color: #724545;
