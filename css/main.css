@@ -397,4 +397,113 @@ header .search-area ul li{
 	border-bottom: 1px solid rgba(0, 0, 0, 0.7);
 	background: transparent;
 }
+/*START OF AD CODE*/
+.background-img-container{
+	margin-top: -40px;
+}
+.background-img-container img{
+	height: auto;
+	width: 100%;
+	
+}
+.ad-icon{
+	background: #948093; /*light gray*/ 
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	display: inline-block;
+	z-index: 2;
+	position: relative;
+	top: 20px;
+	left: 20px;
+}
+.ad-icon i{
+	color: #ffffff;
+	font-size: 1.2rem;
+	position: relative;
+	top: 10px;
+	left: 7px;
+	transform: rotate(-25deg);
+}
+.message-container{
+	background-color: rgba(13, 12, 12, 0.4);
+	position: relative;
+	bottom: 173px;
+	color: #221f1f;
+	height: 160px;
+}
+.sponsor-title{
+	color: #e5cdcd;
+	display: block;
+	font-weight: 500;
+	font-size: 25px;
+	padding: 5px 15px;
+}
+.sponsor-sentence{
+	display: inline-block;
+	float: left;
+	color: #e5cdcd;
+	font-weight: 500;
+	padding: 5px 15px;
+}
+.sponsor-time{
+	color: #e5cdcd;
+	font-weight: 500;
+	display: inline-block;
+	position: relative;
+	top: 20px;
+	right: 362px;
+	padding-top: 10px;
+}
+.like-btn{
+	font-size: 1.5rem;
+	float: right;
+	color: #e5cdcd;
+	padding-right: 15px;
+	position: relative;
+	top: 30px;
+	transition: all .4s ease-in-out;
+	cursor: pointer;
+}
+.like-btn i:hover{
+	color: #11cd00; /*highlighter green*/
+}
+
+.sponsor-dropdown{
+	position: relative;
+	bottom: 200px;
+	margin: 0;
+}
+.sponsor-date{
+	color: #e5cdcd;
+	text-align: center;
+	float: left;
+	display: inline-block;
+	padding: 10px 15px;
+}
+.down-icon{
+	color: #e5cdcd;
+	text-align: center;
+	font-size: 1.5rem;
+	float: right;
+	display: inline-block;
+	padding: 10px 15px;
+}
+/*END OF AD CODE*/
+#footer{
+	padding: 20px;
+	position: relative;
+	text-align: center;
+	background: #b7d3b5; /*off white green*/ 
+	font-size: 2.3rem;
+	color: #837788;
+}
+#footer a{
+	color: #837788;
+	transition: all .4s ease-in-out;
+	cursor: pointer;
+}
+#footer a:hover{
+	color: #11cd00; /*highlighter green*/
+}
 /*END OF CONTENT-AREA CODE*/
