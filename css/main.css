@@ -540,9 +540,20 @@ header .search-area ul li{
   header .menu {
     display: none;
   }
+  header .icon-links .quick-options {
+    border-right: none;
+  }
   header .icon-links ul li:nth-child(1),
   header .icon-links ul li:nth-child(3){
     display: none;
+  }
+  header .icon-links ul li:nth-child(2){
+    width: 70px;
+    height: 70px;
+    background: #708c6d;
+    border-radius: 50%;
+    position: relative;
+    bottom: 10px;
   }
   header .icon-links ul li:nth-child(2) a{
     font-size: 50px;
