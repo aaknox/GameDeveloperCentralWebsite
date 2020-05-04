@@ -23,7 +23,13 @@
   header .logo-area a {
     font-size: 40px;
   }
-  header .search-area ul li:nth-child(2){
+  header .search-area ul li:nth-child(1){
+    font-size: 70px;
+    background: #708c6d;
+    border-radius: 50%;
+  }
+  header .search-area ul li:nth-child(2),
+  header .search-area ul li:nth-child(3){
     display: none;
   }
 }
