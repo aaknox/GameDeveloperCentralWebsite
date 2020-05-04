@@ -529,7 +529,7 @@ header .search-area ul li{
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   header {
-    padding: 30px;
+    padding: 10px;
     height: 100px;
   }
   header .logo-area a {
@@ -540,7 +540,16 @@ header .search-area ul li{
   header .menu {
     display: none;
   }
-  
+  header .icon-links ul li:nth-child(1),
+  header .icon-links ul li:nth-child(3){
+    display: none;
+  }
+  header .icon-links ul li:nth-child(2){
+    font-size: 50px;
+  }
+  header .icon-links .privacy {
+    display: none;
+  }
   header .search-area ul li:nth-child(1){
     width: 70px;
     height: 70px;
