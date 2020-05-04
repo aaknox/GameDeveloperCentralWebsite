@@ -9,8 +9,58 @@
 	HIGHLIGHTER BLUE= #0034b3
 	OFF-TONED GRAY= #d1c9d1
 */
-/*****RESPONSIVE IMPORTS*******/
-@import "header-responsive.css";
+/*****RESPONSIVE CODE*******/
+/*START OF HEADER MEDIA QUERIES*/
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+  
+}
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+  
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+  
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  header {
+    padding: 30px;
+    height: 100px;
+  }
+  header .logo-area a {
+    font-size: 50px !important;
+    position: relative;
+    top: 10px;
+  }
+  header .menu {
+    display: none;
+  }
+  
+  header .search-area ul li:nth-child(1){
+    width: 70px;
+    height: 70px;
+    background: #708c6d;
+    border-radius: 50%;
+    position: relative;
+    bottom: 10px;
+  }
+  header .search-area ul li:nth-child(1) .fas{
+    font-size: 30px;
+    position: relative;
+    top: 20px;
+    right: 20px;
+  }
+  header .search-area ul li:nth-child(2),
+  header .search-area ul li:nth-child(3){
+    display: none;
+  }
+}
+/*END OF HEADER MEDIA QUERIES*/
 /************/
 
 *{
