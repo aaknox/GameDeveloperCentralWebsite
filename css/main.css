@@ -8,7 +8,11 @@
 	HIGHLIGHTER GREEN= #11cd00
 	HIGHLIGHTER BLUE= #0034b3
 	OFF-TONED GRAY= #d1c9d1
-	*/
+*/
+/*****RESPONSIVE IMPORTS*******/
+@import "header-responsive.css";
+/************/
+
 *{
 	box-sizing: border-box;
 }
