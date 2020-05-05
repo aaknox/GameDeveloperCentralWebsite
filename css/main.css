@@ -579,6 +579,64 @@ header .search-area ul li{
   #content-area .main-area .post .post-body .post-comments .comment-info {
     font-size: 1.6rem;
   }
+  #content-area .main-area .post .post-body .post-form .comment-info input {
+    font-size: 1.6rem;
+  }
+  #content-area .main-area .post .post-body .post-form .icons i {
+    font-size: 30px;
+  }
+  .ad-icon {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 40px;
+    left: 30px;
+  }
+  .ad-icon i {
+    font-size: 30px;
+    position: relative;
+    top: 14px;
+    left: 10px;
+  }
+ .message-container {
+    position: relative;
+    bottom: 0px;
+  }
+  .sponsor-title {
+    font-size: 35px;
+  }
+  .sponsor-sentence {
+    font-size: 30px;
+  }
+  .sponsor-time {
+    display: block;
+    position: relative;
+    top: 40px;
+    right: 665px;
+    font-size: 25px;
+  }
+  .like-btn {
+    position: relative;
+    top: 10px;
+    left: 8px;
+    font-size: 1.8rem;
+  }
+  .sponsor-dropdown {
+    position: relative;
+    bottom: 0px;
+  }
+  .sponsor-date {
+    color: #221f1f;
+    font-size: 1.3rem;
+  }
+  .down-icon{
+    color: #221f1f;
+  }
+  /*END OF CONTENT-AREA CODE*/
+  /*START OF FOOTER CODE*/
+  #footer {
+    display: none;
+  }
 }
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
