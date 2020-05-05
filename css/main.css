@@ -557,7 +557,29 @@ header .search-area ul li{
   #content-area .main-area .submenu ul li .fas{
     font-size: 1.8rem;
   }
- }
+  #content-area .main-area .post .post-head .user-face {
+    height: 60px;
+    width: 60px;
+  }
+  #content-area .main-area .post .post-head .user-info {
+    font-size: 1.4rem;
+  }
+  #content-area .main-area .post .post-head .post-date {
+    font-size: 1.2rem;
+  }
+  #content-area .main-area .post .post-body .top-icons i, 
+  #content-area .main-area .post .post-body .top-icons .comment-icon {
+    font-size: 2rem;
+  }
+  #content-area .main-area .post .post-body .post-comments img,
+  #content-area .main-area .post .post-body .post-form img {
+    height: 60px;
+    width: 60px;
+  }
+  #content-area .main-area .post .post-body .post-comments .comment-info {
+    font-size: 1.6rem;
+  }
+}
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   /*START OF HEADER CODE*/
