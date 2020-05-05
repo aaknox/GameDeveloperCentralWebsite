@@ -536,6 +536,12 @@ header .search-area ul li{
   header .search-area ul li {
     font-size: 20px;
   }
+  #top-area .profile-info .user-details h3 {
+    font-size: 2rem;
+  }
+  #top-area .profile-info .user-details a {
+    font-size: 15px;
+  }
   /*START OF CONTENT-AREA CODE*/
   #content-area .side-column {
     display: none;
@@ -544,8 +550,14 @@ header .search-area ul li{
     width: 100%;
     margin: 0 auto;
   }
-}
-
+  #content-area .main-area .submenu ul li span {
+    font-size: 20px;
+  }
+  #content-area .main-area .submenu ul li .far,
+  #content-area .main-area .submenu ul li .fas{
+    font-size: 1.8rem;
+  }
+ }
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   /*START OF HEADER CODE*/
