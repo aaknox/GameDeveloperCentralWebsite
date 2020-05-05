@@ -524,7 +524,26 @@ header .search-area ul li{
 
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
-  
+  header .logo-area a {
+    font-size: 1.8rem;
+  }
+  header a {
+    font-size: 20px;
+  }
+  header .search-area {
+    margin-left: -10px;
+  }
+  header .search-area ul li {
+    font-size: 20px;
+  }
+  /*START OF CONTENT-AREA CODE*/
+  #content-area .side-column {
+    display: none;
+  }
+  #content-area .main-area {
+    width: 100%;
+    margin: 0 auto;
+  }
 }
 
 /* Smartphones (portrait and landscape) ----------- */
