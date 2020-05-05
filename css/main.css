@@ -601,6 +601,9 @@ header .search-area ul li{
     width: 100%;
     margin: 0 auto;
   }
+  #content-area .main-area .submenu ul li {
+    font-size: 2.0rem;
+  }
   #content-area .main-area .post .post-head .user-face {
     height: 60px;
     width: 60px;
