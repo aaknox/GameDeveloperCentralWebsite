@@ -303,6 +303,7 @@ header .search-area ul li{
 	float: right;
 	display: inline-block;
 	font-size: 20px;
+	color: #837788;
 }
 #content-area .main-area .post .post-body .post-comments img{
 	border-radius: 50%;
@@ -510,7 +511,7 @@ header .search-area ul li{
 /**********************************************************************************************/
 
 /*****RESPONSIVE CODE*******/
-/*START OF HEADER MEDIA QUERIES*/
+/*START OF MEDIA QUERIES*/
 /* Large screens ----------- */
 @media only screen  and (min-width : 1824px) {
   
@@ -528,6 +529,7 @@ header .search-area ul li{
 
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  /*START OF HEADER CODE*/
   header {
     padding: 10px;
     height: 100px;
@@ -585,6 +587,106 @@ header .search-area ul li{
   header .search-area ul li:nth-child(3){
     display: none;
   }
+  /*END OF HEADER CODE*/
+  /*START OF TOP-JUMBO CODE*/
+  #top-area {
+    display: none;
+  }
+  /*END OF TOP-JUMBO CODE*/
+  /*START OF CONTENT-AREA CODE*/
+  #content-area .side-column {
+    display: none;
+  }
+  #content-area .main-area {
+    width: 100%;
+    margin: 0 auto;
+  }
+  #content-area .main-area .post .post-head .user-face {
+    height: 60px;
+    width: 60px;
+  }
+  #content-area .main-area .post .post-head .user-info {
+    font-size: 25px;
+  }
+  #content-area .main-area .post .post-head .post-date {
+    font-size: 20px;
+  }
+  #content-area .main-area .post .post-body .top-icons i {
+    font-size: 30px;
+  }
+  #content-area .main-area .post .post-body .top-icons .comment-icon {
+    font-size: 30px;
+  }
+  #content-area .main-area .post .post-body .post-comments img {
+    height: 60px;
+    width: 60px;
+  }
+  #content-area .main-area .post .post-body .post-comments .comment-info {
+    font-size: 20px;
+  }
+  #content-area .main-area .post .post-body .post-form img {
+    height: 60px;
+    width: 60px;
+  }
+  #content-area .main-area .post .post-body .post-form .comment-info input {
+    font-size: 20px;
+  }
+  #content-area .main-area .post .post-body .post-form .icons i {
+    font-size: 30px;
+  }
+  .ad-icon {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 40px;
+    left: 30px;
+  }
+  .ad-icon i {
+    font-size: 30px;
+    position: relative;
+    top: 14px;
+    left: 10px;
+  }
+ .message-container {
+    position: relative;
+    bottom: 0px;
+  }
+  .sponsor-title {
+    font-size: 35px;
+  }
+  .sponsor-sentence {
+    font-size: 30px;
+  }
+  .sponsor-time {
+    display: block;
+    position: relative;
+    top: 40px;
+    right: 665px;
+    font-size: 25px;
+  }
+  .like-btn {
+    position: relative;
+    top: 10px;
+    left: 8px;
+    font-size: 1.8rem;
+  }
+  .sponsor-dropdown {
+    position: relative;
+    bottom: 0px;
+  }
+  .sponsor-date {
+    color: #221f1f;
+    font-size: 1.3rem;
+  }
+  .down-icon{
+    color: #221f1f;
+  }
+  /*END OF CONTENT-AREA CODE*/
+  /*START OF FOOTER CODE*/
+  #footer {
+    display: none;
+  }
+  /*END OF FOOTER CODE*/
 }
-/*END OF HEADER MEDIA QUERIES*/
+/*END OF MEDIA QUERIES*/
 /************/
