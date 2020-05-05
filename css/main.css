@@ -540,6 +540,9 @@ header .search-area ul li{
   header .menu {
     display: none;
   }
+  header .icon-links {
+    width: 40%;
+  }
   header .icon-links .quick-options {
     border-right: none;
   }
@@ -553,10 +556,13 @@ header .search-area ul li{
     background: #708c6d;
     border-radius: 50%;
     position: relative;
-    bottom: 10px;
+    left: 600px;
   }
   header .icon-links ul li:nth-child(2) a{
-    font-size: 50px;
+    font-size: 40px;
+    position: relative;
+    top: 15px;
+    left: 15px;
   }
   header .icon-links .privacy {
     display: none;
